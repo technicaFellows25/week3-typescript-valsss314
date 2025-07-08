@@ -1,0 +1,7 @@
+@layer base {
+  :root {
+    font-family: Helvetica, sans-serif;
+    /*font-family: Rubik, serif;*/
+    text-align: center;
+  }
+}
